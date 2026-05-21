@@ -1,0 +1,15 @@
+# Build output
+Back-End/stud-erp/target/
+Fron-End/College-ERP/node_modules/
+Fron-End/College-ERP/dist/
+
+# Common compiled artifacts
+*.class
+*.log
+
+# Secrets
+Back-End/stud-erp/src/main/resources/erpsystem1-fa499-firebase-adminsdk-fbsvc-10d094ff89.json
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
