@@ -3,7 +3,7 @@ public class MigrateHodDepartment {
   public static void main(String[] args) throws Exception {
     String url = "jdbc:postgresql://localhost:5432/college";
     String user = "postgres";
-    String pass = "tan2003";
+    String pass = "ur pass";
     try (Connection c = DriverManager.getConnection(url, user, pass);
          Statement st = c.createStatement()) {
       String[] statements = new String[] {
