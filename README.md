@@ -9,21 +9,6 @@ A full-featured College ERP (Enterprise Resource Planning) web application for m
 
 ---
 
-**Table of contents**
-- [Project](#project)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Tech stack](#tech-stack)
-- [Local setup](#local-setup)
-- [Configuration](#configuration)
-- [Database](#database)
-- [Firebase](#firebase)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License & contact](#license--contact)
-
----
-
 ## Project
 
 College ERP System provides role-based access for HODs, Professors and Students. HODs can manage users, departments, courses and academic records; Professors can manage student records, attendance and notifications; Students can view and update their profile and view attendance and notifications.
